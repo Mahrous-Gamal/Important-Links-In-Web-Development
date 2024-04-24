@@ -1,0 +1,36 @@
+🔹 Auto Close Tag
+🔹 Auto Import
+🔹 Auto Renametag
+🔹 Blackbox AI Code Generation, Code Chat, Code Search
+🔹 Bookmarks
+🔹 Bracket Pair Colorization Toggler
+🔹 Code Runner
+🔹 CodeSnap
+🔹 Color Highlight
+🔹 CSS Auto Prefix
+🔹 CSS Peek
+🔹 Dark Lavender
+🔹 EditorConfig for VS Code
+🔹 ESLint
+🔹 ES7+ React/Redux/React-Native snippets
+🔹 Git Graph
+🔹 GitHub Copilot
+🔹 GitHub Copilot Chat
+🔹 GitHub Pull Requests
+🔹 GitLens — Git supercharged
+🔹 Image preview
+🔹 indent-rainbow
+🔹 IntelliCode
+🔹 IntelliCode API Usage Examples
+🔹 IntelliSense for CSS class names in HTML
+🔹 Live Server
+🔹 Material Icon Theme
+🔹 One Monokai Theme
+🔹 Open in Browser
+🔹 Path Intellisense
+🔹 Prettierr - Code formatter
+🔹 Project Manager
+🔹 Rainbow Tags
+🔹 Simple React Snippets
+🔹 Tabnine
+🔹 Tailwind CSS IntelliSense
