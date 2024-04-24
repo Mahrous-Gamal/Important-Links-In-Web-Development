@@ -4,7 +4,7 @@
 
 **Wuzzuf:** [https://wuzzuf.net](https://wuzzuf.net)
 
-**Linkedin:** [https://www.linkedin.com)](https://www.linkedin.com)
+**Linkedin:** [https://www.linkedin.com](https://www.linkedin.com)
 
 **Jobzella:** [https://www.jobzella.com](https://www.jobzella.com)
 
@@ -26,8 +26,11 @@
 **Important Links For Deployment:**
 
 **Vercel:** [https://vercel.com](https://vercel.com)
+
 **Github:** [https://github.com](https://github.com)
+
 **Render:** [https://render.com](https://render.com)
+
 **Netlify:** [https://www.netlify.com](https://www.netlify.com)
 
 
