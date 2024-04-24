@@ -2,79 +2,51 @@
 
 ## **Full Time Job**
 
-##### **Wuzzuf:**
+**Wuzzuf:** [https://wuzzuf.net](https://wuzzuf.net)
 
-[https://wuzzuf.net](https://wuzzuf.net)
+**Linkedin:** [https://www.linkedin.com)](https://www.linkedin.com)
 
-##### **Linkedin:**
+**Jobzella:** [https://www.jobzella.com](https://www.jobzella.com)
 
-[https://www.linkedin.com)](https://www.linkedin.com)
-
-##### **Jobzella:**
-
-[https://www.jobzella.com](https://www.jobzella.com)
-
-##### **Glassdoor:**
-
-[https://www.glassdoor.com](https://www.glassdoor.com)
+**Glassdoor:** [https://www.glassdoor.com](https://www.glassdoor.com)
 
 ## **Freelancing**
 
-##### **Upwork:**
+**Upwork:** [https://www.upwork.com](https://www.upwork.com)
 
-[https://www.upwork.com](https://www.upwork.com)
+**Freelancer:** [https://www.freelancer.com](https://www.freelancer.com)
 
-##### **Freelancer:**
+**Mostaql:** [https://eg.mostaql.com](https://eg.mostaql.com)
 
-[https://www.freelancer.com](https://www.freelancer.com)
+**Khamsat:** [https://khamsat.com](https://khamsat.com)
 
-##### **Mostaql:**
-
-[https://eg.mostaql.com](https://eg.mostaql.com)
-
-##### **Khamsat:**
-
-[https://khamsat.com](https://khamsat.com)
-
-##### **Fiverr:**
-
-[https://www.fiverr.com](https://www.fiverr.com)
+**Fiverr:**[https://www.fiverr.com](https://www.fiverr.com)
 
 
-##### **Important Links For Deployment:**
+**Important Links For Deployment:**
 
 **Vercel:** [https://vercel.com](https://vercel.com)
-
 **Github:** [https://github.com](https://github.com)
-
 **Render:** [https://render.com](https://render.com)
-
 **Netlify:** [https://www.netlify.com](https://www.netlify.com)
 
+----------------------------------------------------------------
 
-##### **Popular Plugins:**
+**Popular Plugins:**
 
 **Owlcarousel2:** [https://owlcarousel2.github.io/OwlCarousel2/](https://owlcarousel2.github.io/OwlCarousel2/)
-
 **Skitter-slider:** [https://skitter-slider.net/](https://skitter-slider.net/)
-
 **Kenwheeler:** [https://kenwheeler.github.io/slick/](https://kenwheeler.github.io/slick/)
-
 **Mattboldt:** [https://github.com/mattboldt/typed.js/](https://github.com/mattboldt/typed.js/)
 
 **WOWjs:** [https://wowjs.uk/](https://wowjs.uk/)
-
 **Vincentgarreau:** [https://vincentgarreau.com/particles.js/](https://vincentgarreau.com/particles.js/)
-
 **Isotope:** [https://isotope.metafizzy.co/](https://isotope.metafizzy.co/)
-
 **Jquery Drawsvg:** [http://leocs.me/jquery-drawsvg/](http://leocs.me/jquery-drawsvg/)
 
-##### **SVG:**
+**SVG:**
 **Getwaves:** [https://getwaves.io/](https://getwaves.io/)
-
 **Shapedivider:** [https://www.shapedivider.app/](https://www.shapedivider.app/)
-
 **Blobmaker:** [https://www.blobmaker.app/](https://www.blobmaker.app/)
 
 
