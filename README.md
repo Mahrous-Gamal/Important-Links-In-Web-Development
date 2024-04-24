@@ -30,23 +30,32 @@
 **Render:** [https://render.com](https://render.com)
 **Netlify:** [https://www.netlify.com](https://www.netlify.com)
 
-----------------------------------------------------------------
 
-**Popular Plugins:**
+
+## **Popular Plugins:**
 
 **Owlcarousel2:** [https://owlcarousel2.github.io/OwlCarousel2/](https://owlcarousel2.github.io/OwlCarousel2/)
+
 **Skitter-slider:** [https://skitter-slider.net/](https://skitter-slider.net/)
+
 **Kenwheeler:** [https://kenwheeler.github.io/slick/](https://kenwheeler.github.io/slick/)
+
 **Mattboldt:** [https://github.com/mattboldt/typed.js/](https://github.com/mattboldt/typed.js/)
 
 **WOWjs:** [https://wowjs.uk/](https://wowjs.uk/)
+
 **Vincentgarreau:** [https://vincentgarreau.com/particles.js/](https://vincentgarreau.com/particles.js/)
+
 **Isotope:** [https://isotope.metafizzy.co/](https://isotope.metafizzy.co/)
+
 **Jquery Drawsvg:** [http://leocs.me/jquery-drawsvg/](http://leocs.me/jquery-drawsvg/)
 
-**SVG:**
+## **SVG:**
+
 **Getwaves:** [https://getwaves.io/](https://getwaves.io/)
+
 **Shapedivider:** [https://www.shapedivider.app/](https://www.shapedivider.app/)
+
 **Blobmaker:** [https://www.blobmaker.app/](https://www.blobmaker.app/)
 
 
